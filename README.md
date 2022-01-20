@@ -2,7 +2,7 @@
 This is my very first project made by using CSS FrameWorks.<br>
 There are some links that I use to make this POS System.
 
-Site map = https://www.gloomaps.com/PN2RMrifKk
+Site map = https://www.gloomaps.com/wTmcN9yMAT
 
 Wire frame = https://wireframe.cc/u7da7I
 
