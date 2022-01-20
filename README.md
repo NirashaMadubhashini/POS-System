@@ -6,7 +6,7 @@ Site map = https://www.gloomaps.com/wTmcN9yMAT
 
 Wire frame = https://wireframe.cc/u7da7I
 
-Mock up= https://www.figma.com/file/OlrvgmR1CiX6Fwo5AIHT1V/Untitled?node-id=0%3A1
+Mock up= https://www.figma.com/file/mIt7M0c6mPgkxm8hQuIhwp/Untitled?node-id=0%3A1
 
 github = https://github.com/NirashaMadubhashini
 
