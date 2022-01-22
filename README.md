@@ -22,7 +22,7 @@ githubPages = https://nirashamadubhashini.github.io/POS-System/
 ![screenshot](assets/posImg/DashBoard.png)
 
 03.EditProfile
-![screenshot](assets/posImg/EditProfile.png)
+![screenshot](assets/posImg/EditProfileInfo.png)
 
 04.AddCustomer
 ![screenshot](assets/posImg/AddCustomer.png)
