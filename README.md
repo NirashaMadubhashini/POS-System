@@ -15,14 +15,29 @@ githubPages = https://nirashamadubhashini.github.io/POS-System/
 ##Screenshots of POS System##
 
 
-01.Manage Customer
-![screenshot](assets/pictures/index.jpeg)
+01.Loging
+![screenshot](assets/posImg/Loging.png)
 
-02.Manage Store
-![screenshot](assets/pictures/aboutMe.jpeg)
+02.DashBoard
+![screenshot](assets/posImg/DashBoard.png)
 
-03.Place Order
-![screenshot](assets/pictures/skills.jpeg)
+03.EditProfile
+![screenshot](assets/posImg/EditProfile.png)
+
+04.AddCustomer
+![screenshot](assets/posImg/AddCustomer.png)
+
+05.AddItem
+![screenshot](assets/posImg/AddItem.png)
+
+06.ManageCustomers
+![screenshot](assets/posImg/ManageCustomer.png)
+
+07.ManageItems
+![screenshot](assets/posImg/ManageItem.png)
+
+08.PlaceOrder
+![screenshot](assets/posImg/PlaceOrder.png)
 
 
 
