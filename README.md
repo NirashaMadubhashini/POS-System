@@ -31,10 +31,10 @@ githubPages = https://nirashamadubhashini.github.io/POS-System/
 ![screenshot](assets/posImg/AddItem.png)
 
 06.ManageCustomers
-![screenshot](assets/posImg/ManageCustomer.png)
+![screenshot](assets/posImg/Manage%20Customers.png)
 
 07.ManageItems
-![screenshot](assets/posImg/ManageItem.png)
+![screenshot](assets/posImg/Manage%20Items.png)
 
 08.PlaceOrder
 ![screenshot](assets/posImg/PlaceOrder.png)
