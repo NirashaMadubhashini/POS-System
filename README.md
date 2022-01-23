@@ -10,7 +10,6 @@ Mock up= https://www.figma.com/file/mIt7M0c6mPgkxm8hQuIhwp/Untitled?node-id=0%3A
 
 github = https://github.com/NirashaMadubhashini
 
-githubPages = https://nirashamadubhashini.github.io/POS-System/
 
 ##Screenshots of POS System##
 
