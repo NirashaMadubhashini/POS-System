@@ -1,5 +1,5 @@
 
-This project is done by using javaScript,Html,Css,JQuery and Bootstrap.<br>
+This project is done by using JavaScript,Html,Css,JQuery and Bootstrap.<br>
 There are some links that I use to make this POS System.
 
 Site map = https://www.gloomaps.com/wTmcN9yMAT
