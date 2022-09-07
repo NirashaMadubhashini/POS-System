@@ -1,5 +1,5 @@
 
-This is my very first project made by using CSS FrameWorks.<br>
+This project is done by using javaScript,Html,Css,JQuery and Bootstrap.<br>
 There are some links that I use to make this POS System.
 
 Site map = https://www.gloomaps.com/wTmcN9yMAT
@@ -14,23 +14,20 @@ github = https://github.com/NirashaMadubhashini
 ##Screenshots of POS System##
 
 
-01.Loging
+Loging
 ![screenshot](assets/posImg/login.png)
 
-02.DashBoard
-![screenshot](assets/posImg/Dashboard.png)
+DashBoard
+![screenshot](assets/posImg/dash.png)
 
-03.EditProfile
-![screenshot](assets/posImg/editProfile.png)
+Customer
+![screenshot](assets/posImg/customer.png)
 
-04.ManageCustomers
-![screenshot](assets/posImg/Manage%20Customer.png)
+Items
+![screenshot](assets/posImg/item.png)
 
-05.ManageItems
-![screenshot](assets/posImg/Manage%20Item.png)
-
-06.PlaceOrder
-![screenshot](assets/posImg/Place%20Order.png)
+PlaceOrder
+![screenshot](assets/posImg/order.png)
 
 
 
